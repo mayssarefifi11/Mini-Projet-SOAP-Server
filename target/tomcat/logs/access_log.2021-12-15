@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [15/Dec/2021:01:50:09 -0800] "GET /ISET/ HTTP/1.1" 200 52 http-bio-8887-exec-2 715
+0:0:0:0:0:0:0:1 - - [15/Dec/2021:01:50:09 -0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8887-exec-3 0
+0:0:0:0:0:0:0:1 - - [15/Dec/2021:01:57:10 -0800] "GET /ISET/tournoi/getAllTournoi HTTP/1.1" 404 1003 http-bio-8887-exec-2 40
